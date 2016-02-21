@@ -10,6 +10,7 @@
   * http://mitpress.mit.edu/sicp/chapter1/node9.html
   * https://www.youtube.com/watch?v=k7pem_6z5_c
   */
+
 object DeducaoDeRaizes {
   def raiz(x: Double) = {
 
